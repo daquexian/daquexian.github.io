@@ -1,16 +1,16 @@
 # Site settings
-title: 读立写生
+title: 缺弦之家
 header-img: "img/green.jpg"
 tagline: "cn"  
-description: "陈素封|读而立·写而生"  
+description: "我是大缺弦～"  
 baseurl: ""
-url: "http://cnfeat"  
+url: "http://jianhao-zhang.github.io"  
 
 # About/contact
 owner: 
-  name: " CnFeat"
-  email: CnFeat@gmail.com
-  bio: "写就是写的报酬"
+  name: " daquexian"
+  email: daquexian566@gmail.com
+  bio: "多学一样本事，就少说一句求人的话"
 
 # Data
 gavatar: http://dreamofbook.qiniudn.com/Az..png

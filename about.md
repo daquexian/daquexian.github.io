@@ -38,10 +38,6 @@ header-img: "img/green.jpg"
 - [知乎@大缺弦](https://www.zhihu.com/people/zhang-jian-hao-98)
 
 
-<center>
-    <p><img src="http://i173.photobucket.com/albums/w63/cnfeat/2015-08-29-2_zpsqj7po8eo.png" align="center"></p>
-</center>
-
 
 
 
