@@ -13,7 +13,7 @@ header-img: "img/green.jpg"
 我是大缺弦～科大14级计院学生，目前主要方向为android开发，还是新手，会在这里写下一些学到的优秀知识～
 
 
-###关注：
+### 关注：
 
 
 - [超理论坛](https://chaoli.club)
@@ -21,17 +21,17 @@ header-img: "img/green.jpg"
 - [Android开发](http://developer.android.com/intl/zh-cn/index.html)
 
 
-###正在参与的项目：
+### 正在参与的项目：
 
 - [超理论坛 Android App 开发](https://github.com/jianhao-zhang/chaoli-forum-for-android-2)
 
 
-###我的朋友们
+### 我的朋友们
 
 - [Geno1024](https://github.com/Geno1024)
 - [knight42](https://github.com/knight42)
 
-###联系
+### 联系
 
 - [博客，就是这里啦](https://jianhao-zhang.github.io)
 
