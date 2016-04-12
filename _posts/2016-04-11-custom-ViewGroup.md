@@ -3,7 +3,7 @@ layout: post
 
 title: 自定义滑动时吸附屏幕的ViewGroup
 
-date: 2015-04-11
+date: 2016-04-11
 
 categories: blog
 
