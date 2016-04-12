@@ -43,12 +43,12 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      author: "CnFeat"
+      author: "大缺弦"
       header-img: "img/green.jpg" # We don't want posts without a header image, that whould mean white on white
 
 # Comments 
 comments :
-  provider : duoshuo
+  provider :
   duoshuo :
     short_name : 
   disqus :
