@@ -4,7 +4,7 @@ header-img: "img/green.jpg"
 tagline: "cn"  
 description: "我是大缺弦～"  
 baseurl: ""
-url: "http://jianhao-zhang.github.io"  
+url: "http://daquexian.github.io"  
 
 # About/contact
 owner: 
@@ -48,9 +48,9 @@ defaults:
 
 # Comments 
 comments :
-  provider :
+  provider : duoshuo
   duoshuo :
-    short_name : 
+    short_name : daquexian
   disqus :
       short_name : 
 

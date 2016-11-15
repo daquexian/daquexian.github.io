@@ -1,3 +1,18 @@
+---
+layout: post
+
+title: Chaoli Forum
+
+date: 2016-11-15
+
+categories: blog
+
+tags: [Android, MVVM, Data Binding]
+
+description: 
+
+---
+
 ##**源码食用指南**
 
 ###架构
