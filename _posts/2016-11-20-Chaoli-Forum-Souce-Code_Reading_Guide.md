@@ -1,7 +1,7 @@
 ---
 layout: post
 
-title: Chaoli Forum
+title: Chaoli Forum Source Code Reading Guide
 
 date: 2016-11-15
 
@@ -13,12 +13,12 @@ description:
 
 ---
 
-##**源码食用指南**
+## **源码食用指南**
 
-###架构
+### 架构
 使用了Data Binding的MVVM架构
 
-###包组织方式
+### 包组织方式
 项目中有8个包，分别是view, viewmodel, model, data, binding, network, meta, utils
 
 * view
