@@ -1,8 +1,8 @@
 # Site settings
-title: 缺弦之家
+title: Home of quexian
 header-img: "img/green.jpg"
 tagline: "cn"  
-description: "我是大缺弦～"  
+description: "I'm daquexian"  
 baseurl: ""
 url: "http://daquexian.github.io"  
 
@@ -10,7 +10,7 @@ url: "http://daquexian.github.io"
 owner: 
   name: " daquexian"
   email: daquexian566@gmail.com
-  bio: "多学一样本事，就少说一句求人的话"
+  bio: "I'm daquexian, nice to meet you"
 
 # Data
 gavatar: http://dreamofbook.qiniudn.com/Az..png
@@ -43,7 +43,7 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      author: "大缺弦"
+      author: "daquexian"
       header-img: "img/green.jpg" # We don't want posts without a header image, that whould mean white on white
 
 # Comments 
