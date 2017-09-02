@@ -17,4 +17,4 @@ A student in USTC. Google Summer of Code participant for K-9 Mail. Intern at MSR
 
 - Email: daquexian566@gmail.com
 
-[PGP Public Key](https://raw.githubusercontent.com/daquexian/daquexian.github.io/master/public_key_daquexian.asc)
+- [PGP Public Key](https://raw.githubusercontent.com/daquexian/daquexian.github.io/master/public_key_daquexian.asc). Please send me PGP encrypted mail if you can.
