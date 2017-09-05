@@ -17,7 +17,7 @@ I have contributed to [K-9 Mail](https://k9mail.github.io) in this summer as my 
 
 ## Overview
 
-K-9 Mail is a great mail app on Android. It is almost as old as Android system, and be loved by hackers for its unique and powerful features like GPG support. However as time goes by, there has been some missing features. During GSoC 2017, I focused on improving account setup under the guidance of Valodim.
+K-9 Mail is a great mail app on Android. It is almost as old as Android system, and be loved by hackers for its unique and powerful features like PGP support. However as time goes by, there has been some missing features. During GSoC 2017, I focused on improving account setup under the guidance of Valodim.
 
 
 ## What I have done
